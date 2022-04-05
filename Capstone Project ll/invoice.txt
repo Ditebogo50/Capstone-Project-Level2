@@ -1,0 +1,13 @@
+Order number 1
+Customer: Boo
+Email: gmail
+Phone number: 9900
+Location: Durban
+You have ordered the following from Aesop’s Pizza in Cape Town:
+piza X1 R2
+Special instructions: no
+Total: R2
+Eugene Santana is nearest to the restaurant and so he will be delivering your
+order to you at :
+22 jo
+If you need to contact the restaurant, their number is 9900
